@@ -241,7 +241,7 @@
 	}
 
 })(jQuery);
-
+//适用范围需自行调整
 jQuery(document).ready(function($){
 	$("a[rel!=link]:has(img)").slimbox();
 });
