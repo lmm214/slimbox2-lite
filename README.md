@@ -2,14 +2,14 @@ slimbox2-lite
 =============
 相对官方作了以下改动：
 
-1. 去除了灯箱底部的图片信息显示
+1.去除了灯箱底部的图片信息显示
 
 ```
 //删除去了以下 4 个 DOM 相关的代码
 bottomContainer, bottom, caption, number
 ```
 
-2. 图片灯箱自适应，再也不怕插入高清
+2.图片灯箱自适应，再也不怕插入高清
 
 ```
 function animateBox() {
